@@ -5,3 +5,5 @@ sudo apt update
 sudo apt upgrade
 sudo apt install ssh
 sudo apt install nmap
+
+sudo apt install python3-pip
