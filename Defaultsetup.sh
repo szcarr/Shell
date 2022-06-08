@@ -20,7 +20,7 @@ sudo apt install vlc
 # Installing VSC
 mkdir ./setup_temp_default
 cd ./setup_temp_default
-wget https://code.visualstudio.com/sha/download?build=stable\&os=linux-deb-x64
+wget https://code.visualstudio.com/sha/download?build=stable\&os=linux-deb-x64 # Noke feil her trur eg
 file=$(ls)
 sudo apt install $file.deb -y
 cd ..
